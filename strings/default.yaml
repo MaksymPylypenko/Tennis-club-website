@@ -1,0 +1,86 @@
+title:
+  ru: ТК Премьер
+  uk: ТК Прем'єр
+  en: TC Premier
+  
+location:
+  ru: Кременчуг, ул. Флотская 3
+  uk: Кременчук, вул. Флотська 3
+  en: Flots'ka St, 3, Kremenchuk
+  
+path:
+  ru: Проложить путь
+  uk: Прокласти шлях
+  en: Find a route
+
+key_words: Премьер Прем'єр Премьєр  Кременчуг теннисный теннис теннисные тенис клуб корты корт школа тренер турнир Premier Kremenchuk tennis tenis club courts court trainer tournament
+
+club_description:
+  ru: Самый современный теннисный клуб в Кременчуге уже в распоряжении каждого с желанием заниматься спортом или просто расслабиться в приятной и спокойной обстановке.
+  uk: Найсучасніший тенісний клуб в Кременчуці вже в розпорядженні кожного з бажанням займатися спортом або просто розслабитися в приємній і спокійній обстановці.
+  en: The most modern tennis club in Kremenchug is already at the disposal of everyone with the desire to play sports or just relax in a pleasant and relaxed atmosphere.
+
+sections:
+  services:
+    ru: Услуги
+    uk: Послуги 
+    en: Services 
+  events:
+    ru: События
+    uk: Події
+    en: Events
+  about:
+    ru: О нас
+    uk: Про нас
+    en: About us
+
+services: 
+  rental:
+    ru: Аренда кортов
+    uk: Оренда кортів
+    en: Court rental
+  learn:
+    ru: Обучающие программы
+    uk: Навчальні програми
+    en: Training programs
+  camp:
+    ru: Летний лагерь
+    uk: Літній табір
+    en: Summer camp
+  #restaurant:
+  #  ru: Кафе-ресторан
+  #  uk: Кафе-ресторан
+  #  en: Cafe-restaurant
+  #shop:
+  #  ru: Спортивный магазин
+  #  uk: Спортивний магазин
+  #  en: Sport shop
+
+    
+events: 
+  calendar: 
+    ru: Календарь турниров
+    uk: Календар турнірів
+    en: Tournament Calendar
+  blog: 
+    ru: Блог
+    uk: Блог
+    en: Blog
+    
+about: 
+  contacts: 
+    ru: Контакты
+    uk: Контакти
+    en: Contacts
+  history:
+    ru: История клуба
+    uk: Історія клубу
+    en: History
+  rules:
+    ru: Правила клуба
+    uk: Правила клубу
+    en: Rules
+  #collaboration: 
+    #ru: Сотрудничество
+    #uk: Співробітництво
+    #en: Collaboration

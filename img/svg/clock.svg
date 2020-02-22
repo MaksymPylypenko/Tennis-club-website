@@ -1,0 +1,16 @@
+<svg id="ic_access_time_white_24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.784 49.784">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #727aaa;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_57" data-name="Path 57" class="cls-1" d="M22.723,2A20.743,20.743,0,1,0,43.487,22.743,20.733,20.733,0,0,0,22.723,2Zm.021,37.338A16.595,16.595,0,1,1,39.338,22.743,16.59,16.59,0,0,1,22.743,39.338Z" transform="translate(2.149 2.149)"/>
+  <path id="Path_58" data-name="Path 58" class="cls-2" d="M0,0H49.784V49.784H0Z"/>
+  <path id="Path_59" data-name="Path 59" class="cls-1" d="M14.112,7H11V19.446L21.89,25.98l1.556-2.551L14.112,17.89Z" transform="translate(11.818 7.52)"/>
+</svg>

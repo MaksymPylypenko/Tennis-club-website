@@ -1,0 +1,15 @@
+<svg id="ic_place_white_24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.174 54.174">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #727aaa;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_10" data-name="Path 10" class="cls-1" d="M20.8,2A15.789,15.789,0,0,0,5,17.8c0,11.85,15.8,29.344,15.8,29.344S36.6,29.651,36.6,17.8A15.789,15.789,0,0,0,20.8,2Zm0,21.444A5.643,5.643,0,1,1,26.444,17.8,5.645,5.645,0,0,1,20.8,23.444Z" transform="translate(6.286 2.514)"/>
+  <path id="Path_11" data-name="Path 11" class="cls-2" d="M0,0H54.174V54.174H0Z"/>
+</svg>

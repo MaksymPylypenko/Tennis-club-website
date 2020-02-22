@@ -1,0 +1,141 @@
+#1
+slide1-name:
+  ru: Теннисный клуб Премьер
+  uk: Тенісний клуб Прем'єр
+  en: Tennis Club Premier
+  
+slide1-details:
+  ru: Самый современный теннисный клуб в Кременчуге уже в распоряжении каждого с желанием заниматься спортом.
+  uk: Найсучасніший тенісний клуб в Кременчуці вже в розпорядженні кожного з бажанням займатися спортом.
+  en: A modern tennis club in Kremenchug is available to everyone with a desire to actively spent their time.
+
+slide1-action:
+  ru: Видео сюжет
+  uk: Відео сюжет
+  en: Watch video
+
+#2
+slide2-name:
+  ru: Активный отдых
+  uk: Активний відпочинок
+  en: Active recreation
+  
+slide2-details:
+  ru: Теннис – это прекрасное времяпровождение и возможность избавить себя от негативных мыслей.
+  uk: Теніс - це прекрасне проведення часу і можливість позбавити себе від негативних думок.
+  en: Tennis is a great way to spend your time and an opportunity to clear your mind of negative thinking.
+
+slide2-action:
+  ru: Аренда кортов
+  uk: Оренда кортів
+  en: Court rental
+  
+#3
+slide3-name:
+  ru: Подготовка спортсменов
+  uk: Підготовка спортсменів
+  en: Become an athlet
+  
+slide3-details:
+  ru: Всего за год занятий ребенок может достичь колоссальных успехов!
+  uk: Всього за рік занять дитина може досягти колосальних успіхів!
+  en: In just one year of training a child can achieve tremendous success!
+
+slide3-action:
+  ru: Программы обучения
+  uk: Програми навчання
+  en: Training programs
+  
+#other
+offers:
+  ru: Актуальные предложения
+  uk: Актуальні пропозиції
+  en: Best offers
+  
+offer1-name:
+  ru: Летний лагерь
+  uk: Літній табір
+  en: Summer camp
+  
+offer1-date:
+  ru: Начало 10-го Июня 2019
+  uk: Початок 10-го Червня 2019
+  en: Begins on the 10th of June 2019
+  
+offer1-details:
+  ru: Приглашаем детей от 7 лет на первую смену 10 июня 2019 года!
+  uk: Запрошуємо дітей від 7 років на першу зміну 10 червня 2019 года!
+  en: Children from 7 years old are welcome to the first shift on June 10, 2019!
+  
+offer2-name:
+  ru: Первое занятие бесплатно
+  uk: Перше заняття безкоштовно
+  en: The first lesson is free
+  
+offer2-details:
+  ru: Получите полноценную тренировку по теннису с опытным квалифицированным тренером!
+  uk: Отримайте повноцінне тренування з тенісу з досвідченим кваліфікованим тренером!
+  en: Get a tennis training with an experienced, qualified coach!
+
+offer2-date:
+  ru: до 31-го Мая 2019
+  uk: до 31-го Травня 2019
+  en: expires May 31-st, 2019
+  
+#what you get
+youget-name:
+  ru: Что вы получите
+  uk: Що ви отримаєте
+  en: What you get
+youget-details:
+  ru: Каждый раз посещая теннисный клуб, вы получаете заряд бодрости и энергии на длительное время, укрепляете свое физическое состоянии и совершенствуете мастерство игры в большой теннис.
+  uk: Кожен раз відвідуючи тенісний клуб, ви отримуєте заряд бадьорості та енергії на тривалий час, зміцнюєте свій фізичний стан і удосконалюєте майстерність гри у великий теніс.
+  en: Every time you visit our tennis club, you get a charge of vigor and energy for a long time, strengthen your physical condition and improve your tennis skills.
+
+#other
+events:
+  ru: Последние события
+  uk: Останні події
+  en: Last events
+  
+#reviews
+reviews:
+  ru: Отзывы клиентов
+  uk: Відгуки клієнтів
+  en: Reviews 
+ 
+#buttons
+more:
+  ru: Узнать больше
+  uk: Дізнатися більше
+  en: Learn more
+load-more:
+  ru: Больше
+  uk: Ще
+  en: More
+all-reviews:
+  ru: Все отзывы
+  uk: Всі відгуки
+  en: All reviews
+  
+#tiles
+tile-court:
+  ru: Современные корты
+  uk: Сучасні корти
+  en: Modern courts
+tile-learn:
+  ru: Обучение теннису
+  uk: Навчання тенісу
+  en: Tennis training
+tile-friends:
+  ru: Новые знакомства
+  uk: Нові знайомства
+  en: New friendships
+tile-chill:
+  ru: Уютное кафе-ресторан
+  uk: Затишне кафе-ресторан
+  en: Cosy cafe
+tile-shop:
+  ru: Спортивный магазин
+  uk: Спортивний магазин
+  en: Sports shop
